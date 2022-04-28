@@ -6,9 +6,9 @@ HCI is a discipline concerned with the design, evaluation and implementation of 
 
 ## Homework
 
-| Homework  | Content                      | URL  |
-| --------- | ---------------------------- | ---- |
-| Homework1 | Automatic Speech Recognition |      |
-| -         | TODO                         |      |
-| -         | TODO                         |      |
+| Homework  | Content                      | URL                                                          |
+| --------- | ---------------------------- | ------------------------------------------------------------ |
+| Homework1 | Automatic Speech Recognition | https://github.com/wangwangwang23333/Human-Computer-Interaction/tree/main/lab1-asr |
+| -         | TODO                         |                                                              |
+| -         | TODO                         |                                                              |
 
